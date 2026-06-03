@@ -9,8 +9,6 @@ Original file is located at
 Step 1: Install All Required Libraries
 """
 
-!pip install yfinance tensorflow pandas numpy matplotlib scikit-learn transformers torch feedparser easyocr opencv-python langchain langchain-community langchain-huggingface faiss-cpu sentence-transformers google-generativeai
-!python "group_1_capstone_py (1).py"
 
 """MODULE 1: NSE LIVE DATA FETCHING
 
