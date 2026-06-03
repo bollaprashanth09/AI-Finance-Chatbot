@@ -3,8 +3,7 @@ yfinance
 pandas
 numpy
 plotly
+google-generativeai
+python-dotenv
+requests
 scikit-learn
-tensorflow
-transformers
-torch
-
